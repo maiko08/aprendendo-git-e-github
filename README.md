@@ -1,10 +1,6 @@
-<h1> Sistema de cadástro de jogos </h1>
+<h1> Aprendendo Git e GitHub</h1>
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto em sua máquina, por favor digite:
+Repositório desenvolvido durante o curso de Git e GitHub da Alura.
 
-```
-node app.js
-```
-:)
